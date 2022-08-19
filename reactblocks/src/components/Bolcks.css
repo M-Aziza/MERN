@@ -1,0 +1,39 @@
+.green {
+    background-color: #6aa84f;
+    margin: 5px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.blue{
+    background-color: #6fa8dc;
+    height: 250px;
+    width: 150px;
+    margin: 5px;
+    border: 2px solid black;
+
+}
+
+.red{
+    background-color: #e06666;
+    width: 510px;
+    margin: 6px;
+    border: 2px solid black;
+
+}
+.yellow{
+    background-color: #ffd966;
+    margin: 8px;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+
+}
+
+.prpl{
+    background-color: #b4a7d6;
+    margin: 2%;
+    height: 80px;
+    border: 2px solid black;
+
+}

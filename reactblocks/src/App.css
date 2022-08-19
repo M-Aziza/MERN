@@ -1,0 +1,21 @@
+.App {
+  background-color: #dddddd;
+  width: 690px;
+  margin: 2px auto;
+  padding: 5px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.bottm{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.childrn{
+  display: flex;
+  flex-direction: row;
+}
