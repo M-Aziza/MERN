@@ -10,13 +10,13 @@ const UserForm = (props) => {
     
     const createUser = (e) => {
         e.preventDefault();
-        const newUser = { fname, Lname, email, password, cpassword };
+        const newUser = { fname,lname, email, password,cpassword };
         setFname("");
         setLname("");
         setEmail("");
         setPassword("");
         setCpassword("");
-        // console.log("Welcome", newUser);
+        console.log("Welcome", newUser);
     };
     
     return(
@@ -43,7 +43,7 @@ const UserForm = (props) => {
                 <label>Confirm Password: </label>
                 <input type="password" onChange={ (e) => setCpassword(e.target.value) } value={ cpassword } />
             </div>
-            {/* <input type="submit" value="Create User" /> */}
+            <input type="submit" value="Create User" />
         </form>
 
         <table>
