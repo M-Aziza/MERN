@@ -19,5 +19,5 @@ To use the code
 npx create-react-app axios_pokemon_api
 ```
 
-and then replace the ``src`` folder with this file 
+and then replace the ``src`` folder with [this folder](https://github.com/M-Aziza/MERN_Stack/tree/main/Axios%20Pekemon%20API/src)
 
