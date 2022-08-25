@@ -19,9 +19,11 @@ Hint: use the ``isNaN`` method (is Not a Number). For example: ``isNaN(+"35")`` 
 - [x] Create localhost:3000/4: This should display the number "4", or any other number that was sent through
 
 - [x] Create localhost:3000/hello: This should display the word "hello" or any other word that was sent through
-
-
+- [ ] 
 - [x] Create localhost:3000/hello/blue/red: This should display the word "hello" in blue text with a red background. It should work with any other valid word and colors
+
+#
+
 To use the code
 - create a new react app called ``routingpractice`` 
 
